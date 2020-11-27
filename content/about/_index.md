@@ -7,7 +7,7 @@ expertise_title: "Expertise"
 expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
 
-## ALLEZ PLUS LOIN !
+## ALLER PLUS LOIN !
 
 Le Marketing est quelque chose qui m'a toujours passioné, la vente est encré en moins par les différentes relations. Mon but, devenir un professionnel capable de répondre de la meilleure des façons au besoin du client.
 
