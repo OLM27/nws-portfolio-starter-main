@@ -9,7 +9,7 @@ expertise_sectors: ["Customer Experience Design", "Digital Products", "Developme
 
 ## ALLER PLUS LOIN !
 
-Le Marketing est quelque chose qui m'a toujours passioné, la vente est encré en moins par les différentes relations. Mon but, devenir un professionnel capable de répondre de la meilleure des façons au besoin du client.
+Le Marketing est quelque chose qui m'a toujours passioné, la vente est encré en moins par les différentes relations. Mon but, devenir un professionnel capable de répondre de la meilleure des façons au besoin du client tout en accumulant le plus de compétences.
 
 ![ALt de mon image](/images/projects/profil_photo.jpg)
 
