@@ -16,4 +16,4 @@ Depuis que je suis petit, j’ai toujours été de nature à être créatif et r
 
 Alors, mais si certains affirmeront que ma manière de pensée est immature et puérile, mon but revient à dire : « Qui hante la tempête et se rit de l’archer ». (Charles Baudelaire)
 
-
+![ALt de mon image](/images/projects/cuisine.jpg)
