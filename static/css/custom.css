@@ -168,3 +168,9 @@ p {
                      padding: 0 0 10px;
                      border-width: 0 0 1px;
                      border-color: #E30613;}
+
+                     .site-project-single-action a {
+                        position: relative;
+                        font-size: 12px;
+                        font-weight: 300;
+                        color: #00113e;
