@@ -7,6 +7,10 @@ expertise_title: "Expertise"
 expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
 
+
+
+![ALt de mon image](/images/projects/profil_photo.jpg)
+
 ## MON PROFIL 
 
 Depuis ma plus tendre enfance, je crée et construit de multiples choses grâce aux Lego comme des véhicules ou bien des bâtiments. Cette minuscule brique m’inspire encore aujourd’hui. Elle permet à elle seule de développer l’ensemble de mes idées afin qu’il y ait du sens à tout ce que j’ai pu faire. En effet, la production de nouvelles idées est pour moi indispensable. 
