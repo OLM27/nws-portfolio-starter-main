@@ -1,4 +1,4 @@
-# baseURL       = "http://example.org/"
+baseURL       = "https://nws-owen-lemaitre.netlify.app"
 languageCode  = "fr-FR"
 title         = "INFINITED"
 theme         = "roxo"
