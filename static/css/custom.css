@@ -1,0 +1,170 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+ .site-navigation {
+    background: #EBAB64;
+
+ }
+ 
+ .site-navigation .nav-item .nav-link {
+   font-family: nunito,bold;
+   color: #E30A18;
+
+ }
+
+ .btn-secondary {
+   background: E30A18;
+   color: #030000;
+}
+
+.btn-primary {
+   background: #E30A18;
+   color: #030000;
+
+}
+
+.site-counter {
+   padding: 85px 0;
+   color: #fff;
+   background: #0d2784;
+
+}
+
+.btn-primary {
+   background: #E30613;
+   color: #fff
+
+}
+
+body {
+   font-family: josefin sans,sans-serif;
+   font-size: 16px;
+   color: #EBAB64
+}
+
+body {
+    background-color: #EBAB64
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: montserrat,sans-serif;
+   font-weight: 600;
+   color: #E30613;
+}
+
+p {
+   font-size: 50px;
+   color: #030000
+
+}
+.site-counter-item-number {
+   color: #fff;
+   font-size: 12px;
+   margin-bottom: 0;
+   font-weight: 700;
+}
+
+.site-counter-item-title {
+   font-size: 27px;
+   font-weight: 300
+
+}
+.site-project-item-content span, .site-blog-post-content span {
+    font-family: montserrat,sans-serif;
+    color: #eaa4a4;
+    display: block;
+    margin-bottom: 10px;
+}
+.site-cta-title {
+   font-size: 50px;
+   font-weight: 700;
+   letter-spacing: 10px;
+   margin-bottom: 60px;}
+
+   .section-title p {
+      font-size: 25px;
+      font-weight: 300;}
+
+      .site-project-item-content span, .site-blog-post-content span {
+         font-family: montserrat,sans-serif;
+         color: #030000;
+         display: block;
+         margin-bottom: 10px;}
+
+         .site-footer {
+            background: #EBAB64;
+            padding: 100px 0;}
+ .site-project-cta::before {
+ content: '';
+ position: absolute;
+ height: 2px;
+ width: 100%;
+ background: #0d2784;}
+ 
+ .btn-primary:hover {
+   background: #E30613;}
+
+   .site-project-cta {
+    margin-top: 30px;
+    display: inline-block;
+    position: relative;
+    font-family: montserrat,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #0d2784;  }
+  
+    .site-project-item-content a.read-more, .site-blog-post-content a.read-more {
+      position: absolute;
+      bottom: 40px;
+      display: block;
+      width: 100%;
+      color: #EBAB64;}
+  
+
+      p {
+         font-size: 25px;
+         color: #030000;}
+
+         h1, h2, h3, h4, h5, h6 {
+            font-family: nunito,bold;
+            font-weight: 600;
+            color: #E30613;}
+
+  body {
+ font-family: josefin sans,sans-serif;
+  font-size: 16px;
+  color: #EBAB64;}
+  
+  body {
+   font-family: Liberation Mono;
+   font-size: 15px;
+   color: #EBAB64;}
+
+   .section-title p {
+      font-size: 15px;
+      font-weight: 300}
+
+      p {
+         font-size: 15px;
+         color: #030000; }     
+      
+         .site-footer-widget-title {
+            color: #fff;
+            margin-bottom: 30px;}
+
+            .site-footer-widget-description {
+               color: #fff;
+               line-height: 30px}
+
+               .site-footer-widget-links li a {
+                  color: #fff;
+                  transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
+                  display: block;}
+
+                  .form-control {
+                     background: 0 0;
+                     border-radius: 0;
+                     margin-bottom: 70px;
+                     padding: 0 0 10px;
+                     border-width: 0 0 1px;
+                     border-color: #E30613;}

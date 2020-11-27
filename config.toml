@@ -1,0 +1,100 @@
+# baseURL       = "http://example.org/"
+languageCode  = "fr-FR"
+title         = "INFINITED"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Accueil"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "A propos"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Mes travaux"
+    url     = "portfolio"
+    weight  = 3
+  
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  # Stylesheet
+  css = ["css/custom.css", "css/test.css"]
+
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    
+
+  
+   
+
+  [params.portfolio]
+    enable    = true
+    title     = "MES TRAVAUX"
+    subtitle  = "Il y a un seul moyen d'améliorer notre monde, c'est de rendre chaques idées"
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "POUR ALLER PLUS LOIN, TRAVAILLONS ENSEMBLE"
+    primary_button      = "Submit Query"
+    primary_button_url  = "contact"
+    secondary_button    = "Not Convinced"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Me contacter"
+      address = "Adresse mail : olemaitrepro/a/gmail.com"
+     
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Présentation de INFINITED"
+        [[params.footer.sitemap.link]]
+          name = "A propos"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Mes travaux"
+          url  = "portfolio"
+    
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Réseaux sociaux"
+      
+        [[params.footer.social.link]]
+          name = "Linkedlin"
+          url  = "https://www.linkedin.com/in/owen-le-ma%C3%AEtre-6a99711ba/"
+        [[params.footer.social.link]]
+          name = "Youtube"
+          url  = "https://youtu.be/8sJNXqgMp5E"
+        
+      # Footer Service
+      [params.footer.service]
+        title       = "Nous vous aidons à accomplir vos projets"
+        description = "Alors, lançez-vous et faites nous confiance !"

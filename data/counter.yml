@@ -1,0 +1,14 @@
+enable : true
+heading : "COMPETENCES"
+counter_item: 
+  - title: "Suite Adobe"
+    number: "In Design/ Premiere Pro/ Illustrator/ Photoshop"
+
+  - title: "Outils de création"
+    number: "Scketchup et Sweet Home 3D"
+
+  - title: "Relation client"
+    number: "Linkedin/ WhatsApp"
+
+  - title: "Outils collaboratifs"
+    number: "Suite Google (Drive, Meet, Docs)"
