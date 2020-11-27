@@ -9,8 +9,6 @@ expertise_sectors: ["Customer Experience Design", "Digital Products", "Developme
 
 ## MON PROFIL 
 
-[Alt de mon image](/images/projects/profil_photo.jpg)
-
 Depuis ma plus tendre enfance, je crée et construit de multiples choses grâce aux Lego comme des véhicules ou bien des bâtiments. Cette minuscule brique m’inspire encore aujourd’hui. Elle permet à elle seule de développer l’ensemble de mes idées afin qu’il y ait du sens à tout ce que j’ai pu faire. En effet, la production de nouvelles idées est pour moi indispensable. 
 
 Ainsi, intégrer la Normandie Web School au Petit-Quevilly me permet de suivre un chemin que j’aime où je peux projeter mon imagination tout en aidant les autres. Pendant plusieurs années, j’ai eu l’opportunité avec mes parents d’organiser des soirées Polynésiennes pour dévoiler à la population de petits villages cette culture très différente de chez nous. Lors de ces événements, une partie des bénéfices était souvent reversées à des associations comme celle luttant contre le cancer. J'ai pu aussi apprendre à travailler en équipe car c'était le moteur même d’une bonne cohésion pour avoir une fête parfaite. 
