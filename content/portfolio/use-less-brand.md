@@ -3,7 +3,7 @@ title: "L'ARCHITECTURE EST UN ART"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
 image: "images/projects/project-thumb-one.jpg"
-category: ["Penser est une chose, savoir projetter ses idées en est une autre"]
+category: ["Penser est une chose, savoir projeter ses idées en est une autre"]
 
 --- L’art est un domaine important dans ma vie malgré que je n’ai jamais de peinture et très peu de dessins. Ainsi, un tableau veut dire beaucoup de choses, ce n’est pas qu’une simple représentation de la vie comme la nature morte, l’impressionnisme ou le pointillisme. Le tableau en lui-même par son ensemble de couleurs montre qu’il est unique car chacun ont une histoire différentes et ce qui fait d’un tableau, une œuvre inestimable. L’œuvre formidable « les nénuphars » de Claude Monet montre un univers envahit par le plaisir, les nuances de couleurs et ses dégradés pour nous dire une chose, la raison de faire un tableau aussi magnifique. 
 
