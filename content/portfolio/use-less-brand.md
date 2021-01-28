@@ -9,11 +9,11 @@ category: ["Penser est une chose, savoir projeter ses idées en est une autre"]
 
 ![ALt de mon image](/images/projects/Maison.jpg)
 
-Depuis que je suis petit, j’ai toujours été de nature à être créatif et regarder chaques objets que je voyait car ils étaient de bonnes idées. Les Lego est une passion que j’abrite depuis ma plus tendre enfance et rien n’y fait, l’âge ne change rien du tout sur ma personnalité malgré certains stéréotypes vulgaires. Cette minuscule brique a tous son sens en fin de compte, elle est là pour m’aider afin que j’innove et que je développe mes projets les plus fous. Bien que je l'utilise aussi bien comme un outil bien un divertissement, je reste un enfant. En effet, l’enfant reste dans la joie et la bonne humeur malgré ses parents qui peuvent le disputer car le monde d’adulte fait peur. 
+Depuis que je suis petit, j’ai toujours été de nature à être créatif et regarder chaques objets que je voyait car ils étaient de bonnes idées. Les Lego est une passion que j’abrite depuis ma plus tendre enfance et rien n’y fait, l’âge ne change rien du tout sur ma personnalité malgré certains stéréotypes vulgaires. Cette minuscule brique a tous son sens en fin de compte, elle est là pour m’aider afin que j’innove et que je développe mes projets les plus fous. Bien que je l'utilise aussi bien comme un outil bien un divertissement, je reste quelqu'un proche de mon passé pour avancer, apprendre de mon erreur pour aller encore plus loin.
 
 
 ![ALt de mon image](/images/projects/nuit.jpg)
 
-Alors, mais si certains affirmeront que ma manière de pensée est immature et puérile, mon but revient à dire : « Qui hante la tempête et se rit de l’archer ». (Charles Baudelaire)
+
 
 ![ALt de mon image](/images/projects/cuisine.jpg)
